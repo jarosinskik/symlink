@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "@mypackage/symlink": "^1.0.0",
+    "@zwodnik/symlink": "^1.0.0",
     "small": "^0.2.9"
   },
   "devDependencies": {},
